@@ -1,0 +1,8 @@
+C:\Users\dell\Documents\OOP\pd 2\projectt\projectt\bin\Debug\projectt.exe.config
+C:\Users\dell\Documents\OOP\pd 2\projectt\projectt\bin\Debug\projectt.exe
+C:\Users\dell\Documents\OOP\pd 2\projectt\projectt\bin\Debug\projectt.pdb
+C:\Users\dell\Documents\OOP\pd 2\projectt\projectt\obj\Debug\projectt.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP\pd 2\projectt\projectt\obj\Debug\projectt.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Documents\OOP\pd 2\projectt\projectt\obj\Debug\projectt.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP\pd 2\projectt\projectt\obj\Debug\projectt.exe
+C:\Users\dell\Documents\OOP\pd 2\projectt\projectt\obj\Debug\projectt.pdb

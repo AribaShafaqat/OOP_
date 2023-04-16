@@ -1,0 +1,8 @@
+C:\Users\dell\Documents\OOP\Week1\.vs\lilly\lilly\obj\Debug\lilly.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP\Week1\.vs\lilly\lilly\obj\Debug\lilly.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Documents\OOP\Week1\.vs\lilly\lilly\obj\Debug\lilly.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP\Week1\.vs\lilly\lilly\bin\Debug\lilly.exe.config
+C:\Users\dell\Documents\OOP\Week1\.vs\lilly\lilly\bin\Debug\lilly.exe
+C:\Users\dell\Documents\OOP\Week1\.vs\lilly\lilly\bin\Debug\lilly.pdb
+C:\Users\dell\Documents\OOP\Week1\.vs\lilly\lilly\obj\Debug\lilly.exe
+C:\Users\dell\Documents\OOP\Week1\.vs\lilly\lilly\obj\Debug\lilly.pdb

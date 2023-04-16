@@ -1,0 +1,5 @@
+Lilly,230
+Rose,230
+Lotus,450
+,0
+Daffodil,459
